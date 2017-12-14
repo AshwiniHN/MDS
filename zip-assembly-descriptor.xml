@@ -10,8 +10,8 @@
       <directory>/apps</directory>
       <outputDirectory>/</outputDirectory>
 	  <includes>
-        <include>services/**</include>
-		<include>dvm/**</include>
+       <!-- <include>services/**</include> -->
+	<include>*/**</include>
       </includes>
     </fileSet>
   </fileSets>
