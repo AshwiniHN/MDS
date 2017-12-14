@@ -26,7 +26,7 @@
     
     <properties>
         <!-- These parameters are used by the compile goal -->
-        <scac.input.dir>${project.basedir}\SOA/</scac.input.dir>
+        <scac.input.dir>${project.basedir}/SOA/</scac.input.dir>
         <scac.output.dir>${project.basedir}/target</scac.output.dir>
         <scac.input>${scac.input.dir}/composite.xml</scac.input>
         <scac.output>${scac.output.dir}/out.xml</scac.output>
